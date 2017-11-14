@@ -22,7 +22,7 @@ html {
 @media only screen and (min-width: 642px) and (max-width: 1090px) {
 
   #dolphin {
-    transform: rotateY(90deg);
+    transform: rotate(0.5turn);
   }
 
 }
