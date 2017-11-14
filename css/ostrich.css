@@ -9,10 +9,11 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and () {
+@media only screen and (max-width: 1420px) {
 
   #ostrich {
-    
+    position: absolute;
+    top: 40px
   }
-  
+
 }
